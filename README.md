@@ -1,6 +1,6 @@
 # Vinh_David_Javascript_arrays
 
-Array challenge in Javascript.
+Array challenge in Javascript with David (https://github.com/donohue76).
 -----------------------------------------------------------------------------------------------------------------------------------------
 Arrays Challenge
 Create an array with five decimal numbers, and use it for the following:
